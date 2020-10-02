@@ -3,7 +3,7 @@ def game_hash()
   
   hash = {
     :home = {
-      :team_name = ""
+      :team_name = "Brooklyn Nets"
       :colors = []
       :players = [
         
