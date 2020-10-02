@@ -3,8 +3,8 @@ def game_hash()
   
   hash = {
     :home => {
-      :team_name => "Brooklyn Nets"
-      :colors => ["Black", "White"]
+      :team_name => "Brooklyn Nets",
+      :colors => ["Black", "White"],
       :players => [
         "Alan Anderson" => {
           player_name: "Alan Anderson",
@@ -62,10 +62,10 @@ def game_hash()
           slam_dunks: 1
         }
         ]
-    }
+    },
     :away => {
-      :team_name => "Charlotte Hornets"
-      :colors => ["Turquoise", "Purple"]
+      :team_name => "Charlotte Hornets",
+      :colors => ["Turquoise", "Purple"],
       :players => [
         "Jeff Adrien" => {
           player_name: "Jeff Adrien",
